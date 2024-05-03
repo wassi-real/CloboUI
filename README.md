@@ -15,3 +15,6 @@ CSS CLASS :
 defualt : 
 form desings
 And some other by default design. (Classless)
+
+
+CDN LINK : https://cdn.statically.io/gh/wassi-real/CloboUI/main/clobo.css
